@@ -1,0 +1,72 @@
+{
+    "name": "Fiorano Software",
+    "description": "Fiorano Software Technologies | Support with Invoative Products",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18861-fiorano-software.jpg",
+    "tags": [
+        "agencies",
+        "api management other",
+        "api service provider",
+        "have api",
+        "management",
+        "microservices"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fiorano-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fiorano Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18861-fiorano-software.jpg",
+            "humanURL": "http:\/\/www.fiorano.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fiorano-software-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fiorano-software-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.fiorano.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.fiorano.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fiorano\/people"
+        },
+        {
+            "type": "Email",
+            "url": "legal@in.fiorano.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/FioranoSoftware"
+        },
+        {
+            "type": "Partners",
+            "url": "http:\/\/www.fiorano.com\/partners\/partners.php"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FioranoGlobal"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fiorano.com\/"
+        }
+    ]
+}
